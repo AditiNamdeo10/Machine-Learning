@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Technologies Used
+Technologies Used : 
 Python
 NumPy
 Pandas
